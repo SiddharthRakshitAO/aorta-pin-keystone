@@ -1,0 +1,18 @@
+{
+  "name": "aorta-pin-keystone",
+  "owner": { "name": "AORTA" },
+  "description": "AORTA keystone re-pin test marketplace",
+  "plugins": [
+    {
+      "name": "pin-test",
+      "displayName": "AORTA Pin Test — ONE",
+      "description": "KEYSTONE ONE",
+      "version": "1.0.0",
+      "source": {
+        "source": "archive",
+        "url": "https://raw.githubusercontent.com/SiddharthRakshitAO/aorta-pin-keystone/main/pin-test-v1.zip",
+        "sha256": "0c187f9ea8eb026ec18cfe334d25b1aeb0f898ed8657a7d808b37c87245e9af9"
+      }
+    }
+  ]
+}
