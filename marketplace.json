@@ -5,13 +5,13 @@
   "plugins": [
     {
       "name": "pin-test",
-      "displayName": "AORTA Pin Test — ONE",
-      "description": "KEYSTONE ONE",
-      "version": "1.0.0",
+      "displayName": "AORTA Pin Test — TWO",
+      "description": "KEYSTONE TWO",
+      "version": "2.0.0",
       "source": {
         "source": "archive",
-        "url": "https://raw.githubusercontent.com/SiddharthRakshitAO/aorta-pin-keystone/main/pin-test-v1.zip",
-        "sha256": "0c187f9ea8eb026ec18cfe334d25b1aeb0f898ed8657a7d808b37c87245e9af9"
+        "url": "https://raw.githubusercontent.com/SiddharthRakshitAO/aorta-pin-keystone/main/pin-test-v2.zip",
+        "sha256": "15db70b59dbbc84cca1c52c14b6c09180f4abcbf772606b0228ee6852ba43ce3"
       }
     }
   ]
